@@ -1,6 +1,7 @@
 ## Specification Comparator with Basic RAG
 <hr>
-#### Compare technical specifications between two PDF documents using OpenAI GPT models and display them in a clean tabular format. Export results to Excel for further analysis.
+
+### Compare technical specifications between two PDF documents using OpenAI GPT models and display them in a clean tabular format. Export results to Excel for further analysis.
 <hr> 
 
 Features
@@ -9,13 +10,13 @@ Features
 
   - Extracts key specifications using OpenAI GPT
 
-  Compares values for each specification side by side
+  - Compares values for each specification side by side
 
-  Displays results in an interactive table in Streamlit
+  - Displays results in an interactive table in Streamlit
 
-  Download comparison results as an Excel file
+  - Download comparison results as an Excel file
 
-  Handles missing or incomplete data gracefully
+  - Handles missing or incomplete data gracefully
 
   <hr>
 
