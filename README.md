@@ -21,8 +21,9 @@ Features
 
 <img width="1846" height="737" alt="Screenshot 2026-01-20 192630" src="https://github.com/user-attachments/assets/26af651b-42a0-48cc-a30f-c822160b61a1" />
 
+<hr>
 
-Output is like:
+Output in Streamlit is like:
 
 <code>Specification Comparator with Basic RAG
 Upload First PDF
