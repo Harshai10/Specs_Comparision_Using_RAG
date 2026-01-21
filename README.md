@@ -5,9 +5,9 @@
 
 Features
 
-  Upload two PDF datasheets for comparison
+  - Upload two PDF datasheets for comparison
 
-  Extracts key specifications using OpenAI GPT
+  - Extracts key specifications using OpenAI GPT
 
   Compares values for each specification side by side
 
